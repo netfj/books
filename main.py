@@ -1,6 +1,6 @@
 #coding:utf-8
 """
-info:   
+info:   flask web框架开发练习，书籍管理
 author: NetFj@sina.com
 file:   main.py
 time:   2019/3/25.20:26
